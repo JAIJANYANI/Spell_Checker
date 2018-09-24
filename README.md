@@ -19,7 +19,8 @@ Tested on Ubuntu 16.04 LTS amd64 xenial image built on 2017-09-19 40-core CPU 12
 
 ## Running
 
-* Simply run this command from root directory.
+* Add checkpoint files in root directory.
+* Run this command.
 
 ```
 python Spell_Checker_Main.py
