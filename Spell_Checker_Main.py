@@ -24,7 +24,7 @@ Tested on Ubuntu 16.04 LTS amd64 xenial image built on 2017-09-19 40-core CPU 12
 
 NOTE: If you are receiving this error : "InvalidArgumentError: Assign requires shapes of both tensors to match."
 
-Try switching checkpoints between V1 and V2 on line 258
+Try switching checkpoints between V1 and V2 on line 294/295
 
 """
 
